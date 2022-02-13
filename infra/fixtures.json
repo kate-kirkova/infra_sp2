@@ -1,3 +1,0 @@
-failed to get console mode for stdout: The handle is invalid.
-[31;1mCommandError: Unable to serialize database: cursor "_django_curs_140416960534336_1" does not exist
-[0m[Unable to close the console
